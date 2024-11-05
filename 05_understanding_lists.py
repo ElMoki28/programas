@@ -58,9 +58,10 @@ print("El"+ Carros[2]+" es mi lugar seguro")
 print("Voy a hacer un " +Carros[3])
 print("Mi mamá tiene un "+ Carros[4])
 
+"""
+Agregar elementos a una lista
 
-
-
+"""
 
 print("---------Guitarras-------------------")
 print(Guitarras)

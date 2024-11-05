@@ -41,10 +41,13 @@ Finalmente, imprime el mensaje
 """
 
 print("\n--------Ejercicios---------------------------------")
-print("1-°")
+print("---Ej 1-°---")
 print(4+4)
 print(12-4)
 print(4*2)
 print(16/2)
 
+print("---Ej 2-°---")
+numerofav = "28"
+print("Tienes cara de que tu número favorito es tu dia de nacimiento, debe ser el "+ numerofav)
 
